@@ -2,7 +2,6 @@
 > A curated list of sentry.
 
 #### 官方Sentry SDKs
-
 * [JavaScript](https://github.com/getsentry/sentry-javascript)
 * [React-Native](https://github.com/getsentry/react-native-sentry)
 * [Python](https://github.com/getsentry/sentry-python)
@@ -30,3 +29,8 @@
 * [Terraform](https://github.com/jianyuan/terraform-provider-sentry)
 * [Wordpress](https://github.com/stayallive/wp-sentry)
 * [Zend](https://github.com/cloud-solutions/zend-sentry)
+
+#### 安装Sentry
+* [Docker](https://github.com/tianhanfangyan/sentry-docker)
+* [Docker-Compose](https://github.com/tianhanfangyan/sentry-docker-compose)
+* [Kubernetes](https://github.com/tianhanfangyan/sentry-k8s)
